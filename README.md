@@ -1,15 +1,9 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20)&height=300&section=header&text=Madylin's%20Github&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20)&height=300&section=header&text=SOONG-E&fontSize=80" />
 
-SOONG-E<br />
-
-𝑷𝒍𝒆𝒂𝒔𝒆 𝒄𝒐𝒏𝒕𝒂𝒄𝒕 𝒎𝒆 𝒃𝒚 𝒆-𝒎𝒂𝒊𝒍 𝒃𝒆𝒍𝒐𝒘!<br />
 <br />
 <br />
 
-##  <img  src="https://readme-components.vercel.app/api?component=text&text=42SEOUL&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
-<br />
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9milfi800260glj79netn95/stats?cursusId=21&coalitionId=88" alt="hahlee's 42 stats" /></a>
 
 <br />
 <br />
