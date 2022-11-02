@@ -4,7 +4,7 @@
 <br />
 <br />
 
-contact : soon9le@gmail.com
+✉️ contact : soon9le@gmail.com ✉️ 
 <br />
 <br />
 
