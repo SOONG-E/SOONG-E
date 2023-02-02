@@ -4,8 +4,9 @@
 <br />
 <br />
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=SOONG-E)](https://github.com/KnlnKS/leetcode-stats)
-  
+<img src="https://leetcode-stats-six.vercel.app/?username=SOONG-E" align="left">
+
+
 ✉️ contact : soon9le@gmail.com ✉️ 
 <br />
 <br />
